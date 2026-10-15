@@ -1,0 +1,12 @@
+# 忽略编译目录
+UnitConverter/build/
+build/
+*.o
+*.exe
+CMakeCache.txt
+CMakeFiles/
+main
+
+# 编译器配置
+.vscode/
+.idea/
