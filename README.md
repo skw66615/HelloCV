@@ -13,4 +13,6 @@
 
 [CMake学习项目&实践任务](https://www.yuque.com/dpskw/ditvft?#《CMake》)
 
+实践任务的文件在代码中可以查看，在Unitconverter中，一些杂文件在.gitignore中
+
 
