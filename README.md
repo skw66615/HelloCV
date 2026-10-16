@@ -11,8 +11,6 @@
 
 ## 第二周作业
 
-[CMake学习项目](https://www.yuque.com/g/dpskw/ditvft/)
-
-[CMake实践任务](https://www.yuque.com/g/dpskw/ditvft/nee67gw5rqy6hxkv/collaborator/join?token=FVnJYyUU8LlLQleI&source=doc_collaborator)
+[CMake学习项目&实践任务](https://www.yuque.com/dpskw/ditvft?#《CMake》)
 
 
