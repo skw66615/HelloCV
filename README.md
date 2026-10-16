@@ -11,8 +11,8 @@
 
 ## 第二周作业
 
-[CMake学习项目](https://www.yuque.com/g/dpskw/ditvft/uxela18yxdbn4nh4/collaborator/join?token=QD5T8NwuPJCO6Mwe&source=doc_collaborator# 《常用命令》)
+[CMake学习项目](https://www.yuque.com/g/dpskw/ditvft/uxela18yxdbn4nh4/collaborator/join?token=QD5T8NwuPJCO6Mwe&source=doc_collaborator)
 
-[CMake实践任务](https://www.yuque.com/g/dpskw/ditvft/nee67gw5rqy6hxkv/collaborator/join?token=FVnJYyUU8LlLQleI&source=doc_collaborator# 《单位转换器：》)
+[CMake实践任务](https://www.yuque.com/g/dpskw/ditvft/nee67gw5rqy6hxkv/collaborator/join?token=FVnJYyUU8LlLQleI&source=doc_collaborator)
 
 
