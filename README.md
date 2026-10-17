@@ -15,4 +15,6 @@
 
 实践任务的文件在代码中可以查看，在Unitconverter中，一些杂文件在.gitignore中
 
+[LLM实践任务文档](https://www.yuque.com/dpskw/gciaf5)
 
+[LLM完善后的仓库](https://github.com/skw66615/LLM)
